@@ -242,7 +242,7 @@ input[type="radio"]:checked::after {
     font-size: 1.4rem;
 }
 
-.policy a {
+.policy span {
     text-decoration: underline;
 }
 
